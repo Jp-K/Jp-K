@@ -17,7 +17,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NodeJs](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js&logoColor=007396)
   
   [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html&layout=compact&theme=dark)](https://github.com/Jp-K/)
   
