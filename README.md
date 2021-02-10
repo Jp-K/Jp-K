@@ -37,4 +37,6 @@
 
   <a href="https://www.instagram.com/jpkjoao/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jpkjoao/"/></a>
+  
+  [![Gmail Badge](https://img.shields.io/badge/-joaopaulokraisch@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulokraisch@gmail.com)](mailto:joaopaulokraisch@gmail.com)
   </p>  
