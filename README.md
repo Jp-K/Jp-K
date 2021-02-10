@@ -27,6 +27,14 @@
   
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
   
-  [![Linkedin: João Paulo Kraisch](https://img.shields.io/badge/-João-Paulo-Kraisch-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/")](https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/)
-  
-  [![Gmail Badge](https://img.shields.io/badge/-joaopaulokraisch@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulokraisch@gmail.com)](mailto:joaopaulokraisch@gmail.com)
+  <p align="left">
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/" /></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/joaopaulo.kraisch"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jpkjoao/"/></a>
+  </p>  
