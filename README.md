@@ -18,7 +18,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-  [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html&layout=compact&theme=default)](https://github.com/Jp-K/)
+  [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html&layout=compact&theme=dark)](https://github.com/Jp-K/)
   
   **Ferramenta favorita**
   
@@ -27,6 +27,6 @@
   
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
   
-  [![Linkedin: João Paulo Kraisch](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/")](https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/)
+  [![Linkedin: João Paulo Kraisch](https://img.shields.io/badge/-João-Paulo-Kraisch-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/")](https://www.linkedin.com/in/jo%C3%A3o-paulo-kraisch-458304182/)
   
-  [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulokraisch@gmail.com)](mailto:joaopaulokraisch@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-joaopaulokraisch@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulokraisch@gmail.com)](mailto:joaopaulokraisch@gmail.com)
