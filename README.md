@@ -42,3 +42,5 @@
   
   [![Gmail Badge](https://img.shields.io/badge/-joaopaulokraisch@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulokraisch@gmail.com)](mailto:joaopaulokraisch@gmail.com)
   </p>  
+
+![Snake animation](https://github.com/Jp-K/Jp-K/blob/output/github-contribution-grid-snake.svg)
