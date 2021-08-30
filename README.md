@@ -22,9 +22,10 @@
   
   [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html&layout=compact&theme=dark)](https://github.com/Jp-K/)
   
-  **Ferramenta favorita**
+  **Ferramentas favoritas**
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jet Brains IDE's](./icon-toolbox.svg)
   
   
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
