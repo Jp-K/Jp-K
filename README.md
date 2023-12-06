@@ -21,7 +21,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![NodeJs](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js&logoColor=007396)
   
-  [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html,C,VHDL,CSS&layout=compact&theme=transparent&count_private=true)](https://github.com/Jp-K/)
+  [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html,SWIG,VHDL,CSS&layout=compact&theme=transparent&count_private=true)](https://github.com/Jp-K/)
   
   **Ferramentas favoritas**
   
