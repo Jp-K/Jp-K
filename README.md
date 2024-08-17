@@ -17,7 +17,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=00599C)
   ![VHDL](https://img.shields.io/badge/-VHDL-333333?style=flat&logo=VHDL&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
