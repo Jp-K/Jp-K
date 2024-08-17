@@ -19,7 +19,9 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![NodeJs](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js&logoColor=007396)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=007396)
   
   [![Jp-K](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-K&hide=html,Makefile,SWIG,VHDL,CSS&layout=compact&theme=transparent&count_private=true)](https://github.com/Jp-K/)
   
