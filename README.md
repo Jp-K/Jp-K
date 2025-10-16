@@ -1,3 +1,5 @@
+ 🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # Olá
 ![](https://komarev.com/ghpvc/?username=Jp-K&color=006bed)
 
