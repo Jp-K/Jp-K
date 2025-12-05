@@ -51,7 +51,7 @@ Sou **João Paulo Kraisch**, desenvolvedor **Full Stack Python**, apaixonado por
 
   ## ⚙️ Estatísticas
   
-  [![Top Langs](https://github-readme-stats-mu-vert.vercel.app/api/top-langs/?username=Jp-K&hide=html,Makefile,SWIG,VHDL,CSS&layout=compact&theme=transparent&count_private=true)](https://github.com/Jp-K/)
+  [![Top Langs](https://github-readme-stats-mu-vert.vercel.app/api/top-langs/?username=Jp-K&count_weight=1&size_weight=0&hide=c%2B%2B,c,Cmake,html,Makefile,SWIG,VHDL,CSS&layout=compact&theme=transparent&count_private=true)](https://github.com/Jp-K/)
 
   ---
 
